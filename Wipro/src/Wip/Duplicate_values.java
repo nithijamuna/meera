@@ -9,8 +9,8 @@ import org.testng.annotations.Test;
 
 public class Duplicate_values  {
 
-@Test
-	public static void ma() 
+
+	public static void main(String args[])
 	{
 	
 String[] Dupliacte={"Arul","Nithya","Punitha","Arul","Nithya"};
